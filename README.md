@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dstf
-- 👀 I’m interested in Systems Administration
+- 👀 I’m interested in Systems Administration and Automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
