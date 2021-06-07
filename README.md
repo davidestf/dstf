@@ -2,7 +2,9 @@
   
   
 - 👀 I’m interested in Systems Administration and Automation
+
 - 🌱 I’m currently learning Python
+
 - 💞️ I’m looking to collaborate on Development & Cloud related projects.
  
 
