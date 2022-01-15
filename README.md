@@ -1,7 +1,7 @@
   # Hi, I’m @dstf 👋
   
   
-- 👀 I’m interested in Systems Administration and Automation
+- 👀 I’m interested in Linux Systems Administration and Automation
 
 - 🌱 I’m currently learning Python
 
